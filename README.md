@@ -1,2 +1,2 @@
-# Danish Kumar.github.io
+# Danish Kumar
 Portfolio Website
