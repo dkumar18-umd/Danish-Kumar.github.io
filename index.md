@@ -46,55 +46,28 @@ Currently, I manage climate, energy, and water infrastructure programs at the **
 - Educational program development and training delivery
 
 ---
+## Education
+
+**Master of Science, Civil Engineering**  
+University of Wyoming, 2023-2024
+
+**Bachelor's Degree, Civil Engineering**  
+Mehran University of Engineering and Technology, 2015-2018
+
 
 ## Professional Experience
 
 ### Program Manager for Climate Change
 **University of Maryland Environmental Finance Center** | August 2023 – Present
 
-- Manage programs focused on energy efficiency, building electrification, and small water/wastewater systems
-- Provide technical assistance to local governments on climate action planning and sustainability strategies
-- Support municipalities in securing $6M+ in energy project funding through MEA grant applications
-- Lead GIS-based resilience hub mapping projects for county resilience planning
-- Develop and deliver webinars on building electrification (630+ participants nationally)
-- Support climate action plan development for universities and local institutions
-- Contribute to Climate Stewards Academy content development and delivery
-- Conduct research on emerging technologies (data centers, agrivoltaics, hydrogen)
-
 ### Graduate Research Assistant
 **University of Wyoming** | January 2023 – July 2024
-
-- Co-Principal Investigator on $150,000 research project on hydrogen transportation systems
-- Conducted techno-economic analysis of hydrogen infrastructure and energy systems
-- Developed cost modeling and economic analysis for clean energy pathways
-- Published research on building energy optimization, carbon reduction, and resilience planning
 
 ### Junior Research Associate
 **Asian Disaster Preparedness Center** | May 2021 – January 2023
 
-- Authored technical guidebook on accessing international climate finance for Pakistan
-- Developed Climate Change Financing Framework Implementation Plan
-- Conducted water resource studies including GIS mapping and spatial analysis
-- Analyzed national policies on climate change and water resources
-- Provided technical support for capacity development and training programs
-
 ### Site Engineer & Trainee Engineer
 **Pakistan (2019–2020)** | Task Construction & OCLITS
-
-- Managed construction projects using Primavera P6
-- Implemented BIM processes for infrastructure design
-- Designed sustainable infrastructure using Civil 3D and Revit
-- Ensured quality assurance on-site for roads and utility projects
-
----
-
-## Education
-
-**Master of Science, Civil Engineering**  
-University of Wyoming, 2023
-
-**Bachelor's Degree, Civil Engineering**  
-[University], [Year]
 
 ---
 
@@ -103,77 +76,28 @@ University of Wyoming, 2023
 - *Integrated assessment of levelized costs of hydrogen production: Evaluating renewable and fossil pathways with emission costs and tax incentives*
 - *Techno-economic analysis of green hydrogen integration into existing pipeline infrastructure: A case study of Wyoming*
 - *Carbon emission reduction in construction industry: qualitative insights on procurement, policies and artificial intelligence*
-- *Enhancing Safety in the Construction of Small Modular Reactors (SMRs) and Microreactors (MRs)*
 - *GIS-Enabled Resilience Strategies for Post-Disaster Reconstruction: A Case Study of Pakistan*
 - *Optimizing energy use, cost and carbon emission through building information modelling and a sustainability approach: A case-study of a hospital building*
 
----
-
 ## Key Projects & Accomplishments
-
-### Climate Action Planning
 - Co-developed Towson University Sustainability and Climate Action Plan
-- Supported multiple municipalities in developing comprehensive climate action plans
 - Conducted stakeholder engagement and facilitated collaborative planning processes
-
-### Energy & Resilience
 - Led Prince George's County Resilience Hub mapping project using GIS spatial analysis
-- Developed GIS-based suitability models integrating climate vulnerability, demographics, and infrastructure
 - Supported 5 state-level training courses on energy efficiency and climate resilience
-- Designed and delivered 3 national webinars on building electrification (630+ participants)
-
-### Grant & Funding Support
 - Supported local governments in submitting $6M+ in energy modernization grant applications
-- Managed MEA (Maryland Energy Administration) grant program technical assistance
-- Identified and pursued grant opportunities across federal and state programs
-
-### Research & Analysis
 - Researched data center energy and water consumption impacts
 - Conducted analysis on agrivoltaics and solar land use policies in Maryland and US
 - Developed building energy models and sustainability assessments
-
+  
 ---
 
 ## Technical Skills
 
 **Software & Tools**
-- GIS (ArcGIS)
-- BIM (Revit, Civil 3D, InfraWorks)
-- Building Energy Modeling
-- Microsoft Office Suite (Excel, Word, PowerPoint)
-- Data Visualization Tools
-- Project Management (Primavera P6)
+GIS (ArcGIS) | BIM (Revit, Civil 3D, InfraWorks)| Building Energy Modeling | Project Management (Primavera P6)
 
 **Programming & Analysis**
-- Python (intermediate)
-- Data analysis and statistical methods
-- Cost-benefit analysis
-- Quantitative research methodologies
-
-**Domain Knowledge**
-- Energy systems and grid operations
-- Building electrification and heat pump technology
-- Water and wastewater infrastructure
-- Climate resilience and adaptation planning
-- Greenhouse gas inventory protocols
-- Green building standards and energy codes
-
----
-
-## Certifications & Professional Development
-
-- [Any relevant certifications: CEM, LEED, etc.]
-- ASCE Conference Presenter
-- ARPA-E Summit Participant
-
----
-
-## Community Engagement & Mentorship
-
-- Mentored graduate research assistants on research projects
-- Developed and delivered educational content for diverse audiences
-- Facilitated stakeholder engagement sessions across municipalities and institutions
-- Active in climate action and sustainability communities
+Python (intermediate) | Data analysis and statistical methods | Cost-benefit analysis | Quantitative research methodologies
 
 ---
 
