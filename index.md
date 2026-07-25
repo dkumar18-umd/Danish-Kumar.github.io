@@ -94,7 +94,7 @@ Mehran University of Engineering and Technology, 2015-2018
 ## Technical Skills
 
 **Software & Tools**
-GIS (ArcGIS) | BIM (Revit, Civil 3D, InfraWorks)| Building Energy Modeling | Project Management (Primavera P6)
+GIS (ArcGIS) | BIM (Revit, Civil 3D, InfraWorks) | Building Energy Modeling | Project Management (Primavera P6)
 
 **Programming & Analysis**
 Python (intermediate) | Data analysis and statistical methods | Cost-benefit analysis | Quantitative research methodologies
@@ -106,17 +106,7 @@ Python (intermediate) | Data analysis and statistical methods | Cost-benefit ana
 - ASCE Conferences: Presented research on sustainable infrastructure
 - ARPA-E Summit: Participated in clean energy innovation discussions
 - County Climate Summits: Facilitated technical discussions on resilience planning
-- Municipal Training Programs: Delivered technical assistance sessions on energy efficiency
-
----
-
-## Interests & Initiatives
-
-- Data-Energy-Water Nexus for Decarbonization
-- Equitable energy transitions and climate justice
-- AI and machine learning applications in infrastructure optimization
-- Sustainable infrastructure design and resilience planning
-- Technical assistance to under-resourced communities
+- Municipal Training Programs: Delivered technical assistance sessions on solar and energy efficiency
 
 ---
 
@@ -124,10 +114,9 @@ Python (intermediate) | Data analysis and statistical methods | Cost-benefit ana
 
 I'm passionate about advancing climate solutions through rigorous technical analysis, equitable stakeholder engagement, and practical implementation support. If you're working on energy, water, climate, or sustainability challenges, I'd love to collaborate!
 
-- **Email**: dkumar18@umd.edu
-- **LinkedIn**: [Your LinkedIn Profile]
-- **GitHub**: [Your GitHub Profile]
+- **Email**: danish.fulwani@gmail.com
+- **LinkedIn**: [https://www.linkedin.com/in/danish-kumaar/](https://www.linkedin.com/in/danish-kumaar/)
 
----
+  
 
-*Last updated: February 2026*
+*Last updated: July 2026*
