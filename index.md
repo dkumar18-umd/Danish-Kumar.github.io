@@ -1,12 +1,12 @@
-<div style="display: flex; align-items: center; gap: 24px;">
+<div class="profile-header">
 
-  <div style="flex: 1;">
+  <div class="profile-content">
     <h1>Danish Kumar</h1>
 
-    <p><strong>
+    <h3>
       Program Manager for Climate Change | Civil Engineer |
       Sustainability & Energy Transition
-    </strong></p>
+    </h3>
 
     <p>
       Interdisciplinary engineer with seven years of experience at the
@@ -18,14 +18,11 @@
     </p>
   </div>
 
-  <div style="flex-shrink: 0;">
-    <img
-      src="https://media.licdn.com/dms/image/v2/D4E03AQEL_nvK_uhqOw/profile-displayphoto-scale_400_400/B4EZ8gSeB3KIAo-/0/1782953142648?e=1785369600&v=beta&t=UFnhWBXlXo8EFdqeYY_d26cf-SkuTI8NdrprOD9E3lY"
-      alt="Danish Kumar"
-      width="180"
-      style="border-radius: 50%; display: block;"
-    />
-  </div>
+  <img
+    class="profile-image"
+    src="/assets/images/profile.jpg"
+    alt="Danish Kumar"
+  />
 
 </div>
 📍 Washington DC | 📧 danish.fulwani@gmail.com | [LinkedIn](https://linkedin.com/in/danish-kumaar) [Google Shoolar] (https://scholar.google.com/citations?user=6WEjAzMAAAAJ&hl=en)
