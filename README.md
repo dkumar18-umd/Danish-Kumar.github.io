@@ -1,2 +1,2 @@
-# dkumar18-umd.github.io
+# Danish Kumar.github.io
 Portfolio Website
