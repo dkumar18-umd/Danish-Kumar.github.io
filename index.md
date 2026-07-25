@@ -39,18 +39,11 @@ Currently, I manage climate, energy, and water infrastructure programs at the **
 **Program & Project Management**
 - Climate action plan development
 - Sustainability program design and implementation
-- Grant writing and management ($6M+ in applications supported)
+- Technical writing and policy analysis
 - Stakeholder engagement and facilitation
+- Public outreach and community education
 - Multi-stakeholder initiative coordination
 - Educational program development and training delivery
-
-**Communication & Collaboration**
-- Technical writing and policy analysis
-- Data visualization and dashboard development
-- Training program design and delivery
-- Webinar and presentation facilitation
-- Stakeholder engagement across diverse audiences
-- Public outreach and community education
 
 ---
 
