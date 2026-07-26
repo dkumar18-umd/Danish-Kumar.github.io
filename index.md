@@ -1,15 +1,31 @@
-# Danish Kumar 
-**Program Manager for Climate Change | Civil Engineer | Sustainability & Energy Transition**
+# Danish Kumar
 
-📍 Washington DC | 📧 danish.fulwani@gmail.com | [LinkedIn](https://linkedin.com/in/danish-kumaar) | [Google Shoolar](https://scholar.google.com/citations?user=6WEjAzMAAAAJ&hl=en)
+<div class="intro-section">
 
-# Background 
+<img
+class="intro-photo"
+src="https://media.licdn.com/dms/image/v2/D4E03AQEL_nvK_uhqOw/profile-displayphoto-scale_400_400/B4EZ8gSeB3KIAo-/0/1782953142648?e=1785369600&v=beta&t=UFnhWBXlXo8EFdqeYY_d26cf-SkuTI8NdrprOD9E3lY"
+alt="Danish Kumar">
 
-Interdeciplinary civil engineer with 7 years of experience at the intersection of energy, built environment, and climate change. Expertise includes energy modeling, policy analysis, GIS, and sustainable infrastructure development. Worked on carbon emission reduction, energy optimization and climate resilience for international organizations and government agencies. 
+<div class="intro-text">
 
-![Profile Image](https://media.licdn.com/dms/image/v2/D4E03AQEL_nvK_uhqOw/profile-displayphoto-scale_400_400/B4EZ8gSeB3KIAo-/0/1782953142648?e=1785369600&v=beta&t=UFnhWBXlXo8EFdqeYY_d26cf-SkuTI8NdrprOD9E3lY) 
+<strong>Program Manager for Climate Change | Civil Engineer | Sustainability & Energy Transition</strong>
 
----
+<p>
+📍 Washington, DC |
+📧 <a href="mailto:danish.fulwani@gmail.com">danish.fulwani@gmail.com</a> |
+<a href="https://linkedin.com/in/danish-kumaar">LinkedIn</a> |
+<a href="https://scholar.google.com/citations?user=6WEjAzMAAAAJ&hl=en">Google Scholar</a>
+</p>
+
+<h2>Background</h2>
+
+<p>
+Interdisciplinary civil engineer with seven years of experience at the intersection of energy, the built environment, and climate change. Expertise includes energy modeling, policy analysis, GIS, and sustainable infrastructure development. Experienced in carbon-emissions reduction, energy optimization, and climate resilience for international organizations and government agencies.
+</p>
+
+</div>
+</div>
 
 ## Core Competencies
 
