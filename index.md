@@ -1,9 +1,8 @@
-
 📍 Washington, DC |
 📧 <a href="mailto:danish.fulwani@gmail.com">danish.fulwani@gmail.com</a> |
 <a href="https://linkedin.com/in/danish-kumaar">LinkedIn</a> |
 <a href="https://scholar.google.com/citations?user=6WEjAzMAAAAJ&hl=en">Google Scholar</a>
-</p>
+
 
 <h2>Background</h2>
 
