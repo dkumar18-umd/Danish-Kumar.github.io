@@ -1,4 +1,3 @@
-# Danish Kumar
 
 <div class="intro-section">
 
