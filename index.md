@@ -7,6 +7,7 @@
 ## Background
 
 Interdisciplinary civil engineer with seven years of experience at the intersection of energy, the built environment, and climate change. Expertise includes energy modeling, policy analysis, GIS, and sustainable infrastructure development. Experienced in carbon-emissions reduction, energy optimization, and climate resilience for international organizations and government agencies.
+
 ---
 
 ## Core Competencies
