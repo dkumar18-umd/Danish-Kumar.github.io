@@ -101,6 +101,6 @@ I'm passionate about advancing climate solutions through rigorous technical anal
 - **Email**: danish.fulwani@gmail.com
 - **LinkedIn**: [https://www.linkedin.com/in/danish-kumaar/](https://www.linkedin.com/in/danish-kumaar/)
 
-  
+<embed type="text/html" src="/img/umd_map.html" height="650" width="850">
 
 *Last updated: July 2026*
