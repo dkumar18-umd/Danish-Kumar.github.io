@@ -101,6 +101,12 @@ I'm passionate about advancing climate solutions through rigorous technical anal
 - **Email**: danish.fulwani@gmail.com
 - **LinkedIn**: [https://www.linkedin.com/in/danish-kumaar/](https://www.linkedin.com/in/danish-kumaar/)
 
-<embed type="text/html" src="/img/umd_map.html" height="650" width="850"> 
+<iframe
+  src="{{ '/img/umd_map.html' | relative_url }}"
+  height="650"
+  width="100%"
+  style="border: none;"
+  title="University of Maryland Map">
+</iframe>
 
 *Last updated: July 2026*
