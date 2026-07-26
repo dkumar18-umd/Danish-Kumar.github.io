@@ -1,7 +1,7 @@
 # Danish Kumar 
 **Program Manager for Climate Change | Civil Engineer | Sustainability & Energy Transition**
 
-📍 Washington DC | 📧 danish.fulwani@gmail.com | [LinkedIn](https://linkedin.com/in/danish-kumaar) [Google Shoolar](https://scholar.google.com/citations?user=6WEjAzMAAAAJ&hl=en)
+📍 Washington DC | 📧 danish.fulwani@gmail.com | [LinkedIn](https://linkedin.com/in/danish-kumaar) | [Google Shoolar](https://scholar.google.com/citations?user=6WEjAzMAAAAJ&hl=en)
 
 # Background 
 
