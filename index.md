@@ -2,7 +2,9 @@
 
 Interdeciplinary civil engineer with 7 years of experience at the intersection of energy, built environment, and climate change. Expertise includes energy modeling, policy analysis, GIS, and sustainable infrastructure development. Worked on carbon emission reduction, energy optimization and climate resilience for international organizations and government agencies. 
 
-![Profile Image](https://media.licdn.com/dms/image/v2/D4E03AQEL_nvK_uhqOw/profile-displayphoto-scale_400_400/B4EZ8gSeB3KIAo-/0/1782953142648?e=1785369600&v=beta&t=UFnhWBXlXo8EFdqeYY_d26cf-SkuTI8NdrprOD9E3lY) # Danish Kumar 
+![Profile Image](https://media.licdn.com/dms/image/v2/D4E03AQEL_nvK_uhqOw/profile-displayphoto-scale_400_400/B4EZ8gSeB3KIAo-/0/1782953142648?e=1785369600&v=beta&t=UFnhWBXlXo8EFdqeYY_d26cf-SkuTI8NdrprOD9E3lY) 
+
+# Danish Kumar 
 **Program Manager for Climate Change | Civil Engineer | Sustainability & Energy Transition**
 
 📍 Washington DC | 📧 danish.fulwani@gmail.com | [LinkedIn](https://linkedin.com/in/danish-kumaar) [Google Shoolar](https://scholar.google.com/citations?user=6WEjAzMAAAAJ&hl=en)
