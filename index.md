@@ -1,39 +1,11 @@
-<div class="profile-header">
+# Background 
 
-  <div class="profile-content">
-    <h1>Danish Kumar</h1>
+Interdeciplinary civil engineer with 7 years of experience at the intersection of energy, built environment, and climate change. Expertise includes energy modeling, policy analysis, GIS, and sustainable infrastructure development. Worked on carbon emission reduction, energy optimization and climate resilience for international organizations and government agencies. 
 
-    <h3>
-      Program Manager for Climate Change | Civil Engineer |
-      Sustainability & Energy Transition
-    </h3>
+![Profile Image](https://media.licdn.com/dms/image/v2/D4E03AQEL_nvK_uhqOw/profile-displayphoto-scale_400_400/B4EZ8gSeB3KIAo-/0/1782953142648?e=1785369600&v=beta&t=UFnhWBXlXo8EFdqeYY_d26cf-SkuTI8NdrprOD9E3lY) # Danish Kumar 
+**Program Manager for Climate Change | Civil Engineer | Sustainability & Energy Transition**
 
-    <p>
-      Interdisciplinary engineer with seven years of experience at the
-      intersection of energy, the built environment, and climate change.
-      Expertise includes energy modeling, policy analysis, GIS, and sustainable
-      infrastructure development. Experienced in carbon-emissions reduction,
-      energy optimization, and climate resilience for international
-      organizations and government agencies.
-    </p>
-  </div>
-
-  <img
-    class="profile-image"
-    src="/assets/images/profile.jpg"
-    alt="Danish Kumar"
-  />
-
-</div>
-📍 Washington DC | 📧 danish.fulwani@gmail.com | [LinkedIn](https://linkedin.com/in/danish-kumaar) [Google Shoolar] (https://scholar.google.com/citations?user=6WEjAzMAAAAJ&hl=en)
-
----
-
-## About Me
-
-I am a civil engineer with 7+ years of experience at the intersection of energy systems, water infrastructure, and climate resilience. I specialize in providing technical assistance to under-resourced communities, developing sustainability programs, and translating complex technical concepts into actionable strategies for local governments and institutions.
-
-Currently, I manage climate, energy, and water infrastructure programs at the **University of Maryland's Environmental Finance Center**, where I support municipalities and educational institutions in achieving their sustainability and climate action goals.
+📍 Washington DC | 📧 danish.fulwani@gmail.com | [LinkedIn](https://linkedin.com/in/danish-kumaar) [Google Shoolar](https://scholar.google.com/citations?user=6WEjAzMAAAAJ&hl=en)
 
 ---
 
